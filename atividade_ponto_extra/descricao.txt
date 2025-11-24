@@ -1,0 +1,12 @@
+user_id: identificação única do usuário
+gender: gênero (Male/Female/Other)
+age: idade
+country: país
+subscription_type: Tipo de assinatura (Free, Premium, Family, Student)
+listening_time: minutos ouvidos por dia
+songs_played_per_day: número de músicas tocadas por dia
+skip_rate: percentual de músicas puladas
+device_type: dispositivo usado (Mobile, Desktop, Web)
+ads_listened_per_week: número de anúncios ouvidos por semana
+offline_listening: usa o modo offline (0 = não, 1 =sim)
+is_churned → variável objetivo (0 = ativo, 1 = evadido)
